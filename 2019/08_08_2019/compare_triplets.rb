@@ -1,5 +1,5 @@
-# Date:  8/01/19 remote meeting
-# Name: Reversed Strings
+# Date:  8/08/19 remote meeting
+# Name: Compare the Triplets
 # Difficulty: 7 or 6
 
 # --- sources ---
