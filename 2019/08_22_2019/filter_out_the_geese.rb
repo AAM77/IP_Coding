@@ -12,7 +12,15 @@ def goose_filter (birds)
 end
 
 # Paula
-# Note: Need to ask paula for her solution
+def goose_filter (birds)
+  geese = ["African", "Roman Tufted", "Toulouse", "Pilgrim", "Steinbacher"]
+       birds.map do |bird|
+		if !geese.include?(bird)
+			bird
+		end
+	end.compact
+end
+
 
 # Natalie
 def goose_filter (birds)
